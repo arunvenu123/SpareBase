@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpareBase</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="machines">
+        <item>71" CALENDER</item>
+        <item>48" CALENDER</item>
+        <item>DUAL TUBER-3</item>
+        <item>DUAL TUBER-2</item>
+        <item>APEX TUBER</item>
+        <item>TYRE BUILDING</item>
+        <item>BAND BUILDING</item>
+        <item>BANNER CUTTER</item>
+        <item>OTHERS</item>
+
+    </array>
+
+</resources>
